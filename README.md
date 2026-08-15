@@ -1,4 +1,4 @@
-# Blinky-Board
+[BOM.csv](https://github.com/user-attachments/files/31109759/BOM.csv)# Blinky-Board
 
 Video showing the Blinky Board works: 
 https://jumpshare.com/share/0ToqgzvF8R0nfnmqCSlf
@@ -17,5 +17,5 @@ Blinky Board Assembled:
 
 
 BOM:
-[BOM - Sheet1.csv](https://github.com/user-attachments/files/31109753/BOM.-.Sheet1.csv)
+[BOM.csv](https://github.com/user-attachments/files/31109765/BOM.csv)
 <img width="1431" height="277" alt="Screenshot 2026-08-15 173101" src="https://github.com/user-attachments/assets/fc1a7d69-058e-442b-a9d2-8fbbd167afb6" />
