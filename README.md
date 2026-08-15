@@ -1,4 +1,4 @@
-[BOM.csv](https://github.com/user-attachments/files/31109759/BOM.csv)# Blinky-Board
+# Blinky-Board
 
 Video showing the Blinky Board works: 
 https://jumpshare.com/share/0ToqgzvF8R0nfnmqCSlf
