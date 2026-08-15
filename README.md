@@ -1,4 +1,4 @@
-# Blinky-Board
+[BOM - Sheet1.csv](https://github.com/user-attachments/files/31109742/BOM.-.Sheet1.csv)# Blinky-Board
 
 Video showing the Blinky Board works: 
 https://jumpshare.com/share/0ToqgzvF8R0nfnmqCSlf
@@ -12,7 +12,11 @@ PCB in Kicad:
 Schematic in Kicad:
 <img width="1658" height="1053" alt="Screenshot 2026-04-13 185617" src="https://github.com/user-attachments/assets/967fb5b9-8e76-41ac-9400-baf46c8c4024" />
 
+Blinky Board Assembled:
+<img width="3024" height="4032" alt="unnamed" src="https://github.com/user-attachments/assets/d70d1618-16a1-4b5a-b802-ceeefe72c2e7" />
+
+
 BOM:
-[BOM-Blinky Board - Sheet1.csv](https://github.com/user-attachments/files/31109390/BOM-Blinky.Board.-.Sheet1.csv)
-PCB,$7.57
+[UploadinPCB,$7.57g BOM - Sheet1.csv…]()
+
 <img width="1431" height="277" alt="Screenshot 2026-08-15 173101" src="https://github.com/user-attachments/assets/fc1a7d69-058e-442b-a9d2-8fbbd167afb6" />
