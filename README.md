@@ -12,3 +12,6 @@ PCB in Kicad:
 Schematic in Kicad:
 <img width="1658" height="1053" alt="Screenshot 2026-04-13 185617" src="https://github.com/user-attachments/assets/967fb5b9-8e76-41ac-9400-baf46c8c4024" />
 
+BOM:
+[BOM-Blinky Board - Sheet1.csv](https://github.com/user-attachments/files/31109390/BOM-Blinky.Board.-.Sheet1.csv)
+PCB,$7.57
